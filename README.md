@@ -29,4 +29,4 @@ This project analyzes HR employee data to identify attrition trends, department 
 
 ## Dashboard Preview
 ![Dashboard Preview]
-(Screenshot 2026-05-16 144859)
+(dashboard_preview.png)
