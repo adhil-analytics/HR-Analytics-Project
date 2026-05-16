@@ -26,3 +26,7 @@ This project analyzes HR employee data to identify attrition trends, department 
 - SQL Queries
 - Tableau Dashboard
 - Dashboard Screenshot
+
+## Dashboard Preview
+![Dashboard Preview]
+(Screenshot 2026-05-16 144859)
