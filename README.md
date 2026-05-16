@@ -18,9 +18,6 @@ This project analyzes HR employee data to identify attrition trends, department 
 - Overtime employees show higher attrition
 - Majority employees remain in company
 
-## Dashboard
-(Add dashboard screenshot here)
-
 ## Files Included
 - Dataset
 - SQL Queries
